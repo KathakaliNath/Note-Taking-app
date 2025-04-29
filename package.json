@@ -1,3 +1,9 @@
+"scripts": {
+  "build": "react-scripts build"
+}
+
+
+
 {
   "name": "note-taking-app",
   "version": "0.1.0",
